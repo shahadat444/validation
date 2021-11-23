@@ -1,0 +1,23 @@
+.product_list{
+align-items: center;
+margin-left: 30px;
+
+
+}
+  h2{
+ background-color: tomato;
+ color: white;
+ font-family: arial black;
+ text-align: center;
+ display: list-item;
+   border: white(1px,1px,1px,1px);
+   border-radius: 30px;
+}
+ul li a {
+
+  text-decoration:none;
+  text-transform: capitalize;
+  list-style-type:none;
+}
+
+
